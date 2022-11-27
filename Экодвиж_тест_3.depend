@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669527325 source:c:\users\1\desktop\Экодвиж (Приложение)\Экодвиж_тест_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
